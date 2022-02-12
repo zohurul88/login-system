@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1><?php echo date("Y-m-d"); ?></h1>
+    <h1><?php echo date("Y-m-d H:i:s"); ?></h1>
 </body>
 </html>
